@@ -4,13 +4,13 @@
 
 .h1.h2 {
 font-size: 48px;
-color: orange;
+color: #FFA533;
 font-weight: bold;  
 }
 
 
 #special-id {
-background-color: hsl(15, 82%, 56%);
+background-color: #3355FF;
 }
 
 .First_Bullet {
