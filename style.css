@@ -1,1 +1,9 @@
+.body {
+  font-family: "Times New Roman", serif;
+}
 
+.h1.h2 {
+font-size: 48px;
+background-color: orange;
+font-weight: bold;  
+}
