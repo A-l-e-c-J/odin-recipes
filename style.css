@@ -7,3 +7,12 @@ font-size: 48px;
 color: orange;
 font-weight: bold;  
 }
+
+
+#special-id {
+background-color: hsl(15, 82%, 56%);
+}
+
+.First_Bullet {
+color: #58FF33
+}
