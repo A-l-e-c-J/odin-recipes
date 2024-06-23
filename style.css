@@ -2,17 +2,12 @@
   font-family: "Times New Roman", serif;
 }
 
-.h1.h2 {
+.h1 {
 font-size: 48px;
 color:orange;
-font-weight: bold;  
+font-weight: bold;
+margin-top: 16px
+margin-right: 8px;
+padding: 4px 12px;
 }
 
-
-#special-id {
-background-color: #3355FF;
-}
-
-.First_Bullet {
-color: #58FF33
-}
